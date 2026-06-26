@@ -2,7 +2,7 @@
 
 # Hi, I'm Stan
 
-Systems Technician | (Maybe) Future Cyber Defense Engineer @ ENSIBS | Reverse Engineering Beginner
+Systems Technician 
 
 ### About Me
 - I am currently working as a Systems Technician.
