@@ -6,7 +6,6 @@ Systems Technician
 
 ### About Me
 - I am currently working as a Systems Technician.
-- Preparing to join the Cyber Defense Engineering program at ENSIBS.
 - Currently learning Reverse Engineering through RootMe CTFs and my Homelab.
 - My main interests: Reverse Engineering, Virtualization and Systems Architecture.
 
