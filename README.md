@@ -2,8 +2,6 @@
 
 # Hi, I'm Stan
 
-Systems Technician 
-
 ### About Me
 - I am currently working as a AdminSys.
 - My main interests: Reverse Engineering, Virtualization and Systems.
