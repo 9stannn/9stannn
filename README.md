@@ -5,9 +5,8 @@
 Systems Technician 
 
 ### About Me
-- I am currently working as a Systems Technician.
-- Currently learning Reverse Engineering through RootMe CTFs and my Homelab.
-- My main interests: Reverse Engineering, Virtualization and Systems Architecture.
+- I am currently working as a AdminSys.
+- My main interests: Reverse Engineering, Virtualization and Systems.
 
 ### Currently Listening
 <a href="https://github.com/kittinan/spotify-github-profile">
